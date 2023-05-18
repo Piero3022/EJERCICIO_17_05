@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+button,
+input,
+p {
+    margin: 10px;
+    padding: 5px;
+}
+
+button {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
+input,
+p {
+    border: 1px solid #000000;
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 200px;
+}
+
+p {
+    min-height: 30px;
+}
